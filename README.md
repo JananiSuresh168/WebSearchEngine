@@ -1,6 +1,6 @@
 # Advanced-Search-Engine-Application
 
-Description: Designed a Java-based web search engine utilizing the concepts of data structures with Integrated Google Rank Page algorithm from published water paper and scraped the data from websites using Jsoup
+Description: Developed a Java-based web search engine based on data structures and incorporating the Google Rank Page methodology, as well as scraping data from websites using Jsoup.
 
-Technology used: Java, Jsoup, Google Page Rank, HashMap, Inverted Index, Web Crawler
+Technology used: Java, Google Page Rank, Jsoup, HashMap, Web Crawler, Inverted Index
 
